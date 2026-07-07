@@ -21,3 +21,5 @@ The script uses local source-derived input files that are not redistributed in t
 ## Reproducibility
 
 The repository provides the workflow used to generate the published MigraFISH release. Some raw inputs cannot be redistributed because they originate from third-party sources with their own access and reuse conditions. Users can obtain those source data from the original providers and use the scripts as a documented workflow.
+
+For the full database-construction methods, classification framework, expert-validation process, and interpretation of migration categories, see the accompanying MigraFISH data paper: [citation and DOI to be added].
