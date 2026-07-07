@@ -1,0 +1,12 @@
+# Raw and generated data
+data_raw/
+output/
+data_release/
+
+# R and RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
