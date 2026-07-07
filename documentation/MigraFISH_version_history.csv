@@ -1,0 +1,2 @@
+version,release_date,status,summary_of_changes,recommended_citation
+v2026.1,,First public release,"Initial public release accompanying the MigraFISH data paper. Includes harmonised species-level migration classifications, migration-distance categories, confidence scores, conservation information, provenance fields, and basin-level spatial distributions for 2,536 fish species.","Cite the Zenodo version DOI for MigraFISH v2026.1 and, when available, the accompanying Scientific Data paper."
